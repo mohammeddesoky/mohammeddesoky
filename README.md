@@ -10,4 +10,4 @@
 <br>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=&nbsp;Computer+Science+Student; &nbsp;Competitive+Programmer; &nbsp;Learning+AI+and+Machine+Learning; &nbsp;Software+Engineer style="padding-left: 20px;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=&nbsp;&nbsp;&nbsp;&nbsp;Computer+Science+Student; Competitive+Programmer; Learning+AI+and+Machine+Learning; Software+Engineer alt="Typing SVG" /></a>
