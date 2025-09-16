@@ -1,14 +1,24 @@
-<br><br>
 
-* **📛 I am Moamed Ibrahim Mohamed.**
-* **🏫 I am a <code>Student</code> from the <a href="https://fci.bu.edu.eg">Faculty of Computers & Artificial Intelignece</a> at <a href="https://bu.edu.eg">Benha University</a>**
-* **💻 I am a competitive programmer at <code>Codeforces</code>.**
-* **🧑‍🎓 I’m currently learning <code>Data Science</code> and <code>Artificial Intelligence</code>.**
+## 🚀 About Me
 
-<br>
-<br>
+💡 **Motivated AI Graduate from Benha University**  
+Passionate about **Machine Learning, Deep Learning, Computer Vision, NLP, and Transformers**.  
+Proficient in **Python, TensorFlow, Scikit-learn, NLTK, and OpenCV**.  
+Dedicated to applying AI solutions to solve **real-world problems** and contributing to **innovative projects**.  
 
+---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computer+Science+Student.;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Competitive+Programmer.;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning+AI+and+ML.;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software+Engineer." alt="Typing SVG" /></a>
+### 🛠️ Skills & Tools
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154E8C?style=for-the-badge&logo=nltk&logoColor=white)
+
+---
+
+### 🎯 Highlight
+> **AI Graduate | Machine Learning • Deep Learning • Computer Vision • NLP • Transformers**
 
