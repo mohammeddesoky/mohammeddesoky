@@ -17,7 +17,9 @@ Dedicated to applying AI solutions to solve **real-world problems** and contribu
 ![NLTK](https://img.shields.io/badge/NLTK-154E8C?style=for-the-badge&logo=nltk&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-005C5C?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-005C5C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ---
 
@@ -30,12 +32,6 @@ Dedicated to applying AI solutions to solve **real-world problems** and contribu
   - Completed an **IBM Data Science Internship** with practical training on **Python, Pandas, Numpy, and Machine Learning**.  
   - Applied data science techniques to solve real-world analytical problems.
  
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammeddesoky&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammeddesoky&layout=compact&theme=radical)  
-
 ---
 
 ## 🌐 Connect with Me
